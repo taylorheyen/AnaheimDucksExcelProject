@@ -12,8 +12,14 @@ From the beginning I wanted to see how goals scored and goals scored against inf
 
 The last cleaning that I did for the data was in regards to the “playoffs” column. The column lists the teams best finish in playoffs for that season. However, if the team did not make the playoffs it was just left blank. For cleanliness purposes, I changed the blank to saying “Missed Playoffs”
 
+[![Screenshot-128.png](https://i.postimg.cc/VsZ44B4S/Screenshot-128.png)](https://postimg.cc/F1cjHSMm)
+
 On to pivot tables, I spent a lot of time trying to compare different columns to get the desired output. I essentially took the Ducks data and organized it by the year, and then would go by either Goals For, Goals Against, Wins, Losses, and Goal Differential.
+
+[![Screenshot-129.png](https://i.postimg.cc/NfWDvs3B/Screenshot-129.png)](https://postimg.cc/9rYZGhXn)
 
 Lastly, I included the following charts in the dashboard. I added the splice option for the ability to individually look at how the Ducks did based on their playoff finish that year.
 
 As an example, the years the Ducks did not make the playoffs, they had a negative goal differential. The year they won the Stanley Cup, they had a goal differential of plus 50. That was essentially the data I was trying to show for when starting this simple Excel project!
+
+[![Screenshot-130.png](https://i.postimg.cc/TPxchk2s/Screenshot-130.png)](https://postimg.cc/QF67yJTg)
